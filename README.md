@@ -1,4 +1,4 @@
-# Plant Disease Detection
+# Fasal Mitra - A Plant Disease Detection System
 
 ## Description
 
