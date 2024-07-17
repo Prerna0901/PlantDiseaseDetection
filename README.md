@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the code and resources for a Fasal Mitra project. The project aims to simplify agricultural practices, such as:
+This repository contains the code and resources for the smart agricultural system. The project aims to simplify agricultural practices, such as:
 
 1. Auto plant watering system
 2. Plant disease detection
